@@ -30,6 +30,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bachrilrs/bachrilrs/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Don B (bachrilrs) Stats](https://github-readme-stats.vercel.app/api?username=bachrilrs&show_icons=true&theme=radical&hide_border=false)
+
+![Don B Stats](https://github-readme-stats.vercel.app/api?username=bachrilrs&show_icons=true&theme=radical)
 
 ![Visitors(Welcome)](https://komarev.com/ghpvc/?username=bachrilrs&color=blue&style=flat-square)
