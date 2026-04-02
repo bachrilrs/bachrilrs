@@ -11,8 +11,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools & DB:**
-![Docker](https://img.shields.io/badge/Docker-20.10%2B-blue.svg) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13%2B-blue.svg)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Bioinfo Stack
 - **Workflow Managers:** Nextflow, Snakemake (learning) 
