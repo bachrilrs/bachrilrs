@@ -38,6 +38,7 @@ Welcome to my Github page !
 <a href="https://github.com/bachrilrs"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/laroussi-bachri"><img src="https://img.shields.io/badge/LINKEDIN-3069AD?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:bachri.laroussi-labid@utoulouse.fr"><img src="https://img.shields.io/badge/EMAIL-D46249?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://gitlab.com/bachrilrs"><img src="https://img.shields.io/badge/GITLAB-E24329?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
 
 ![Visitors(Welcome)](https://komarev.com/ghpvc/?username=bachrilrs&color=blue&style=flat-square)
