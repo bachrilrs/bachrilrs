@@ -21,8 +21,7 @@ Welcome to my Github page !
 - **Sequence Analysis:** Samtools, BWA, FeatureCounts
 
 ## Working on in this moment: 🧱
-- A project of image visualization on napari (python) and pipeline building to analyze cells during neurogenesis of olfactory system on Danio Rerio.
-- Other stuff...
+- Automatisation Excel | Python & Data | SQL • Reporting for business
 
 ## Contribution Graph 📈
 [![Graphique de contribution de Bellman](https://github-readme-activity-graph.vercel.app/graph?username=bachrilrs&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
